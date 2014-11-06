@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sample Service</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="service_notification_title_start">START Sample Service Notification</string>
+    <string name="service_notification_title_stop">STOP Sample Service Notification</string>
+    <string name="service_ondestroy_fired">The SampleService has been fired onDestroy"</string>
+    <string name="service_oncreate_fired">The SampleService service has been fired onCreate"</string>
+    <string name="service_toast_started">Sample Service Started</string>
+    <string name="service_toast_stopped">Sample Service Stopped</string>
+    <string name="service_toast_connected">Sample Service Connected</string>
+    <string name="service_toast_disconnected">Sample Service Disconnected</string>
+</resources>
